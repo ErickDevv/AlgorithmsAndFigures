@@ -1,0 +1,3 @@
+# Diamond
+
+## Language: **Javascript**

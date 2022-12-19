@@ -1,11 +1,11 @@
 # ALGORITHMS AND FIGURES
----
-### **A repository where I add algorithm programming exercises and ascii figures.** 🤔
+
+### Algorithms and ascii figures written in several languages.
 ---
 
-## *Menu*
-### Algorithms
-- 
-### Figures
--  diamond
--  triangle
+## **Menu**
+- Algorithms
+    - [Binary Search](binary_search)
+- Figures
+    - [diamond](diamond)
+    - [triangle](triangle)
