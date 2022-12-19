@@ -7,5 +7,5 @@
 - Algorithms
     - [Binary Search](binary_search)
 - Figures
-    - [diamond](diamond)
-    - [triangle](triangle)
+    - [Diamond](diamond)
+    - [Triangle](triangle)
